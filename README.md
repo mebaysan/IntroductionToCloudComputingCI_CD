@@ -1,4 +1,4 @@
-[![Introduction to CI](https://github.com/mebaysan/IntroductionToCloudComputingCI_CD/actions/workflows/main.yml/badge.svg)](https://github.com/mebaysan/IntroductionToCloudComputingCI_CD/actions/workflows/main.yml)
+[![Introduction to CI](https://github.com/mebaysan/IntroductionToCloudComputingCI_CD/actions/workflows/main.yaml/badge.svg)](https://github.com/mebaysan/IntroductionToCloudComputingCI_CD/actions/workflows/main.yaml)
 
 # Introduction
 
