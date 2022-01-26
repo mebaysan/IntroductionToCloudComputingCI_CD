@@ -3,13 +3,13 @@ install:
 		pip install -r requirements.txt
 
 lint:
-	pylint --disable=R,C app.py
+	pylint --disable=R,C main.py
 
 format:
 	black *.py
 
 test:
-	python -m pytest -vv --cov=app test_app.py
+	python -m pytest -vv --cov=app test_main.py
 
 run:
-	python app.py
+	python main.py
