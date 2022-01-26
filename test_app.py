@@ -1,4 +1,4 @@
-from app import index, greeting
+from main import index, greeting
 
 
 def test_index():
