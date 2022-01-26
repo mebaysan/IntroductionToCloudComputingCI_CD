@@ -7,6 +7,16 @@
 
 I created this repo to finish the task given me by Noah Gift from Duke University's [Building Cloud Computing Solutions at Scale Specialization](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 
+# What Continuous Integration is
+
+It provides the following:
+
+- We can know our software. Is it working or not? What is it?
+- It saves our time
+
+# What Continuous Delivery is
+
+We can provide the code is always in a deployable state. 
 
 # About the Project
 
