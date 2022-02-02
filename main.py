@@ -13,10 +13,6 @@ def index():
 def greeting(name):
     return f"Hello, {name}!"
 
-@app.route('/medium/')
-def medium():
-    return 'I am testing the CD for medium.'
-
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080, debug=True)
