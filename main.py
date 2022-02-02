@@ -15,7 +15,7 @@ def greeting(name):
 
 @app.route('/medium/')
 def medium():
-    return 'I am testing the CD for medium!'
+    return 'I am testing the CD for medium.'
 
 
 if __name__ == "__main__":
