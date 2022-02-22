@@ -15,7 +15,7 @@ def greeting(name):
 
 
 @app.route("/greeting-new/<name>")
-def greeting(name):
+def greeting_new(name):
     return f"Hello, {name} from CD by using GCP Cloud Build! "
 
 
