@@ -11,7 +11,7 @@ def index():
 
 @app.route("/greeting/<name>")
 def greeting(name):
-    return f"Hello, {name}! "
+    return f"Hello, {name}!"
 
 
 @app.route("/greeting-new/<name>")
