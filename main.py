@@ -11,6 +11,11 @@ def index():
 
 @app.route("/greeting/<name>")
 def greeting(name):
+    return f"Hello, {name}! "
+
+
+@app.route("/greeting-new/<name>")
+def greeting(name):
     return f"Hello, {name} from CD by using GCP Cloud Build! "
 
 
