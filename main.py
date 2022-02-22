@@ -8,6 +8,10 @@ app = Flask(__name__)
 def index():
     return "Introduction to CI & CD | Baysan"
 
+@app.route("/deneme")
+def index():
+    return "Introduction2 to CI & CD | Baysan"
+
 
 @app.route("/greeting/<name>")
 def greeting(name):
